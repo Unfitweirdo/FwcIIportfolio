@@ -44,6 +44,7 @@ footer .fp-tableCell {
 h1, h2, h3, h4, h5 {
     color: #ffffff;
     font-weight: bold;
+    font-size: 1.5em;
 }
 
 
@@ -161,10 +162,9 @@ h1, h2, h3, h4, h5 {
 
 #home {
     background: url('../images/home-bg.png');
-    background-size: 110rem 61rem;
-    background-position: 40rem 11rem;
+    background-size: 68% 55%;
+    background-position: 50% 25%;
     background-repeat: no-repeat;
-    height: 450rem;
     padding-top: 10px;
     padding-bottom: 120px;
     text-align: center;
